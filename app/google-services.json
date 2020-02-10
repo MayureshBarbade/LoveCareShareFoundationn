@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164181648136",
+    "firebase_url": "https://love-care-share-6c913.firebaseio.com",
+    "project_id": "love-care-share-6c913",
+    "storage_bucket": "love-care-share-6c913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164181648136:android:8fb6c6ce5a24edfd9042bd",
+        "android_client_info": {
+          "package_name": "org.lovecaresharelcs.lovecareshare_foundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164181648136-1pnqn7uqtisgp33ojrm09ofss3khlm6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARX5oMZvqaeYp4rhUVBE8UtOxns0LQOrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164181648136-1pnqn7uqtisgp33ojrm09ofss3khlm6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Love Care Share - Foundation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Love Care Share</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About Us.</string>
+    <string name="menu_slideshow">Our Purpose.</string>
+    <string name="menu_tools">Join Us.</string>
+    <string name="para1">Our commitment towards a better society drives us. The core values inform all of our work. They shape what we do and how we do it. They bind us to a collective vision and purpose.</string>
+    <string name="Love">Love grows by giving. Love is born through the giving of kindness.</string>
+    <string name="Care">Caring people helping others not because they expect reward but because it is an act of kindness.</string>
+    <string name="Purpose">LOVE CARE SHARE Foundation is a Not-for-Profit Non-Government-Organisation registered under Section 8(Old Section 25B) of the companies act.</string>
+    <string name="Purpose1">LOVE CARE SHARE Foundation aims at engaging socially conscious corporates/institutions, groups and individuals with a purpose to collectively add value to the society at large.
+        We observed that there are corporates and individuals who have a noble purpose of contributing to the welfare of the society, but were not aware as to how to utilize their resources for the betterment of the society.</string>
+    <string name="Purpose2">LOVE CARE SHARE Foundation acts as bridge between the Have’s and the Have Not’s.</string>
+    <string name="Purpose3">LOVE CARE SHARE Foundation provides a platform to collaborate these conscious corporates, groups and individuals for the welfare and development of society.</string>
+    <string name="menu_send">Contact Us.</string>
+</resources>
